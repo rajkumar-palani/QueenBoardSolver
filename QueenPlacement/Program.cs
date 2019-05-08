@@ -6,6 +6,9 @@ using System.Text;
 
 namespace QueenPlacement
 {
+    /// <summary>
+    /// Queen Problem Solver
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
